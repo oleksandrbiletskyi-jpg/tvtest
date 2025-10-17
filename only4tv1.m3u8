@@ -1,0 +1,18 @@
+#EXTM3U url-tvg="http://1lot.tv/epg/epg.xml"
+#EXTINF:-1 group-title="Украинские" tvg-id="ua-pershy" tvg-logo="http://1lot.tv/ch/0196.png" ,Перший
+http://s.only4.tv/0196/index.m3u8?token=yNXW4wDMYG
+#EXTINF:-1 group-title="Украинские" tvg-id="5kanal-ua" tvg-logo="http://1lot.tv/ch/0165.png" ,5 Канал
+http://s.only4.tv/0165/index.m3u8?token=yNXW4wDMYG
+#EXTINF:-1 group-title="Украинские" tvg-id="sonce-ua" tvg-logo="http://1lot.tv/ch/0183.png" ,Сонце
+http://s.only4.tv/0183/index.m3u8?token=yNXW4wDMYG
+#EXTINF:-1 group-title="Украинские" tvg-id="rada-ua" tvg-logo="http://1lot.tv/ch/0186.png" ,Рада
+http://s.only4.tv/0186/index.m3u8?token=yNXW4wDMYG
+#EXTINF:-1 group-title="Украинские" tvg-id="z-zapor" tvg-logo="http://1lot.tv/ch/6555.png" ,МТМ (Запоріжжя)
+http://s.only4.tv/6555/index.m3u8?token=yNXW4wDMYG
+#EXTINF:-1 group-title="Украинские" tvg-id="pervy-gorodskoy-kryvrig" tvg-logo="http://1lot.tv/ch/6748.png" ,Перший Міський (Кривий Ріг)
+http://s.only4.tv/6748/index.m3u8?token=yNXW4wDMYG
+#EXTINF:-1 group-title="Украинские" tvg-id="pervy-gorodskoy-odessa" tvg-logo="http://1lot.tv/ch/6749.png" ,Перший Міський (Одеса)
+http://s.only4.tv/6749/index.m3u8?token=yNXW4wDMYG
+#EXTINF:-1 group-title="Украинские" tvg-id="pershy-zaxidny" tvg-logo="http://1lot.tv/ch/6751.png" ,Перший Західний (Львів)
+http://s.only4.tv/6751/index.m3u8?token=yNXW4wDMYG
+#EXT-X-ENDLIST

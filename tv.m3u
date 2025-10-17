@@ -1,0 +1,526 @@
+#EXTM3U deinterlace=1
+
+#EXTINF:-1 group_id="6" group-title="Регіональні" tvg-name="Кременчук" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/1.png", Кременчук
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7001/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="Інтер" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/3.png", Інтер
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7003/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="1+1 Україна" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/5.png", 1+1 Україна
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7005/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="1+1 Марафон" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/143.png", 1+1 Марафон
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7143/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="Новий канал" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/23.png", Новий канал
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7023/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="ICTV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/7.png", ICTV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7007/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="ICTV 2" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/142.png", ICTV 2
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7142/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="СТБ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/8.png", СТБ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7008/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="ТЕТ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/24.png", ТЕТ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7024/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="К1" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/26.png", К1
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7026/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="Star Family" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/19.png", Star Family
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7019/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="2+2" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/31.png", 2+2
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7031/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="ZOOM" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/78.png", ZOOM
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7078/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="НТН" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/6.png", НТН
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7006/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Армія ТБ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/18.png", Армія ТБ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7018/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Фронт" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/161.png", Фронт
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7161/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="ОЦЕ ТБ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/65.png", ОЦЕ ТБ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7065/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="Квартал ТВ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/136.png", Квартал ТВ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7136/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="Ми–Україна+" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/9.png", Ми–Україна+
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7009/index.m3u8
+
+#EXTINF:-1 group_id="1" group-title="Розважальні" tvg-name="Super+" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/10.png", Super+
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7010/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Megogo Спорт" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/123.png", Megogo Спорт
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7123/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Setanta Sports" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/106.png", Setanta Sports
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7106/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Setanta Sports+" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/141.png", Setanta Sports+
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7141/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="UPL.TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/162.png", UPL.TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7162/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Xsport" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/93.png", Xsport
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7093/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Xsport+" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/131.png", Xsport+
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7131/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Cars&Stars TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/115.png", Cars&Stars TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7115/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Трофей" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/13.png", Трофей
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7013/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Рибалка" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/28.png", Рибалка
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7028/index.m3u8
+
+#EXTINF:-1 group_id="2" group-title="Спортивні" tvg-name="Перший Автомобільний" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/21.png", Перший Автомобільний
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:7021
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="FX" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/120.png", FX
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7120/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="4ever Cinema" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/105.png", 4ever Cinema
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7105/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="ProKino" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/159.png", ProKino
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7159/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="4ever Drama" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/109.png", 4ever Drama
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7109/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="4ever Theater" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/110.png", 4ever Theater
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7110/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Твій серіал" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/160.png", Твій серіал
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7160/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Твоє кіно. Hit" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/163.png", Твоє кіно. Hit
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7163/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Твоє кіно. Action" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/164.png", Твоє кіно. Action
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7164/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Твоє кіно. Relax" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/165.png", Твоє кіно. Relax
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7165/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="NOW series" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/111.png", NOW series
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7111/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Наше улюблене кіно" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/41.png", Наше улюблене кіно
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7041/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="FILMUADRAMA" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/149.png", FILMUADRAMA
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7149/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Бігуді" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/66.png", Бігуді
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7066/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Star Cinema" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/148.png", Star Cinema
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7148/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Enter-фільм" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/29.png", Enter-фільм
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7029/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Hollywood HD" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/138.png", Hollywood HD
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7138/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Bollywood HD" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/91.png", Bollywood HD
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7091/index.m3u8
+
+#EXTINF:-1 group_id="3" group-title="Фільми та серіали" tvg-name="Bolt" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/152.png", Bolt
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7152/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Мега" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/12.png", Мега
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7012/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="National Geographic" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/121.png", National Geographic
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7121/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Travel&Food HD" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/150.png", Travel&Food HD
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7150/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="СВІТ+" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/144.png", СВІТ+
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7144/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Viasat History" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/112.png", Viasat History
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7112/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Viasat Nature" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/113.png", Viasat Nature
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7113/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Viasat Explore" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/114.png", Viasat Explore
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7114/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Настоящее время HD" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/118.png", Настоящее время HD
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7118/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="One Planet" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/140.png", One Planet
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7140/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="НАУКА" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/17.png", НАУКА
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7017/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Світло" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/15.png", Світло
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7015/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="КусКус" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/145.png", КусКус
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7145/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Фауна" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/20.png", Фауна
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7020/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="ДАЧА" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/14.png", ДАЧА
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7014/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Масон ТВ " tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/139.png", Масон ТВ 
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7139/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Закон-ТБ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/151.png", Закон-ТБ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:7151
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="6 соток" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/122.png", 6 соток
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7122/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="English Club TV HD" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/81.png", English Club TV HD
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7081/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="UTravel" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/146.png", UTravel
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7146/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="ТEРРА" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/16.png", ТEРРА
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7016/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="36.6 TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/147.png", 36.6 TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7147/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Телевсесвіт" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/73.png", Телевсесвіт
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7073/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Ісландія" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/133.png", Ісландія
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7133/index.m3u8
+
+#EXTINF:-1 group_id="4" group-title="Пізнавальні" tvg-name="Медичний" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/50.png", Медичний
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7050/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="24 канал" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/82.png", 24 канал
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7082/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="5 Канал" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/84.png", 5 Канал
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7084/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="УНІАН" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/33.png", УНІАН
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7033/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="ПРЯМИЙ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/36.png", ПРЯМИЙ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7036/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="ЕСПРЕСО TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/75.png", ЕСПРЕСО TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7075/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="Ми-Україна" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/92.png", Ми-Україна
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7092/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="ПравдаТУТ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/45.png", ПравдаТУТ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7045/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="Obozrevatel TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/69.png", Obozrevatel TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7069/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="Рада" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/47.png", Рада
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7047/index.m3u8
+
+#EXTINF:-1 group_id="5" group-title="Новини" tvg-name="Апостроф" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/132.png", Апостроф
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7132/index.m3u8
+
+#EXTINF:-1 group_id="6" group-title="Регіональні" tvg-name="Візит" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/34.png", Візит
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7034/index.m3u8
+
+#EXTINF:-1 group_id="6" group-title="Регіональні" tvg-name="Суспільне Полтава" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/2.png", Суспільне Полтава
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7002/index.m3u8
+
+#EXTINF:-1 group_id="6" group-title="Регіональні" tvg-name="Суспільне Крим" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/46.png", Суспільне Крим
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7046/index.m3u8
+
+#EXTINF:-1 group_id="6" group-title="Регіональні" tvg-name="Суспільне Кропивницький" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/79.png", Суспільне Кропивницький
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7079/index.m3u8
+
+#EXTINF:-1 group_id="6" group-title="Регіональні" tvg-name="КИЇВ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/76.png", КИЇВ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7076/index.m3u8
+
+#EXTINF:-1 group_id="6" group-title="Регіональні" tvg-name="Перший Західний" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/77.png", Перший Західний
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7077/index.m3u8
+
+#EXTINF:-1 group_id="6" group-title="Регіональні" tvg-name="ATR" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/38.png", ATR
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7038/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="М1" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/58.png", М1
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7058/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="М2" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/59.png", М2
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7059/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="4ever Music HD" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/88.png", 4ever Music HD
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7088/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="#НАШЕ Music" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/98.png", #НАШЕ Music
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7098/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="#НАШЕ Ретро" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/68.png", #НАШЕ Ретро
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7068/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="EU Music" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/42.png", EU Music
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7042/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="UA Music" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/155.png", UA Music
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7155/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="Megogo live" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/117.png", Megogo live
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7117/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="MCM TOP" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/52.png", MCM TOP
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7052/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="inRating TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/32.png", inRating TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7032/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="Black" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/153.png", Black
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7153/index.m3u8
+
+#EXTINF:-1 group_id="7" group-title="Музичні" tvg-name="Viva Latino" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/154.png", Viva Latino
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7154/index.m3u8
+
+#EXTINF:-1 group_id="8" group-title="Дитячі" tvg-name="ПлюсПлюс" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/56.png", ПлюсПлюс
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7056/index.m3u8
+
+#EXTINF:-1 group_id="8" group-title="Дитячі" tvg-name="Піксель TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/30.png", Піксель TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7030/index.m3u8
+
+#EXTINF:-1 group_id="8" group-title="Дитячі" tvg-name="NIKI Kids" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/156.png", NIKI Kids
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7156/index.m3u8
+
+#EXTINF:-1 group_id="8" group-title="Дитячі" tvg-name="NIKI Junior" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/157.png", NIKI Junior
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7157/index.m3u8
+
+#EXTINF:-1 group_id="8" group-title="Дитячі" tvg-name="LALE" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/39.png", LALE
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7039/index.m3u8
+
+#EXTINF:-1 group_id="8" group-title="Дитячі" tvg-name="TiJi" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/87.png", TiJi
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7087/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="ПЕРШИЙ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/48.png", ПЕРШИЙ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7048/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Суспільне Культура" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/62.png", Суспільне Культура
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7062/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Сонце" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/72.png", Сонце
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7072/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="К2" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/27.png", К2
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7027/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="ECO TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/61.png", ECO TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7061/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="ЕТНО HD" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/95.png", ЕТНО HD
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7095/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="8 канал" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/67.png", 8 канал
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7067/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="France 24" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/85.png", France 24
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7085/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Сварожичи" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/71.png", Сварожичи
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7071/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="BTQ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/70.png", BTQ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7070/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Fashion TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/55.png", Fashion TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7055/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Fashion & Style" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/64.png", Fashion & Style
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7064/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Караван TV" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/99.png", Караван TV
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7099/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Provence" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/134.png", Provence
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7134/index.m3u8
+
+#EXTINF:-1 group_id="9" group-title="Інші" tvg-name="Місто+" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/137.png", Місто+
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7137/index.m3u8
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Авторадио" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/125.png", Авторадио
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7125/index.m3u8
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Радио NRJ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/126.png", Радио NRJ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7126/index.m3u8
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Радио Пятница" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/127.png", Радио Пятница
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7127/index.m3u8
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Радио НВ" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/128.png", Радио НВ
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7128/index.m3u8
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Радио Шансон" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/129.png", Радио Шансон
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7129/index.m3u8
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Power FM" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/130.png", Power FM
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:8001/ch7130/index.m3u8
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Радіо Промінь" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/107.png", Радіо Промінь
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:7107
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Украінське радіо" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/100.png", Украінське радіо
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:7100
+
+#EXTINF:-1 group_id="10" group-title="Радіо" tvg-name="Радіо Культура" tvg-shift="0" tvg-logo="http://tv.satel.net.ua/logo/102.png", Радіо Культура
+#EXTVLCOPT:audio-track=0
+http://stream.satel.net.ua:7102
+
